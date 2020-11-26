@@ -6,4 +6,4 @@
 ### To Do List
 
 - [x] Client connected status
-- [] Play music
+- [ ] Play music
